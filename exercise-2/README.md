@@ -29,5 +29,5 @@ Learn the basics of git workflow, including adding new files.
 
 ## Add Image
 Here is a funny image
-![funny image](~/dog.jpg)
+![funny image](dog.jpg)
 
